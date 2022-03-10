@@ -18,4 +18,4 @@ There will be 3 statements below and you can guess which one is a lie.
 
 One last thing, my favorite American animation is Rick and Morty
 
-![rick_and_morty](C:\Users\Bryan\Documents\ThoughtWorks-GTB\.github\asset\rick_and_morty.jpg)
+![rick_and_morty](asset\rick_and_morty.jpg)
